@@ -1,4 +1,4 @@
-# application_learning_to_deal_conflicts
+# Adding developer A story
 
 Practicing resolving conflicts that might occur during merge
 
